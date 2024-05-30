@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.f349c0c6.css",
+    "main.js": "/My-Portfolio/static/js/main.7d138074.js",
+    "static/js/787.d5fa4d18.chunk.js": "/My-Portfolio/static/js/787.d5fa4d18.chunk.js",
+    "static/media/Tanveer_singh.pdf": "/My-Portfolio/static/media/Tanveer_singh.b2d389b52a26b5356c4b.pdf",
+    "static/media/myPic.jpeg": "/My-Portfolio/static/media/myPic.7d3b38a674a4da4c16e8.jpeg",
+    "index.html": "/My-Portfolio/index.html",
+    "main.f349c0c6.css.map": "/My-Portfolio/static/css/main.f349c0c6.css.map",
+    "main.7d138074.js.map": "/My-Portfolio/static/js/main.7d138074.js.map",
+    "787.d5fa4d18.chunk.js.map": "/My-Portfolio/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f349c0c6.css",
+    "static/js/main.7d138074.js"
+  ]
+}
